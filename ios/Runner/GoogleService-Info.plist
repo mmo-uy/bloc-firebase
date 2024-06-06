@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>531118567648-indlc38p4q9edg4pbikekntkjkhdcgtm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.531118567648-indlc38p4q9edg4pbikekntkjkhdcgtm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCm-_ixwz5IIOVevU_t8xOKKF2byCn-b58</string>
+	<key>GCM_SENDER_ID</key>
+	<string>531118567648</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mmo.blocfirebaseauth</string>
+	<key>PROJECT_ID</key>
+	<string>bloclogin-81cbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bloclogin-81cbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:531118567648:ios:917e9c0cf949ff99a0a085</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "531118567648",
+    "project_id": "bloclogin-81cbb",
+    "storage_bucket": "bloclogin-81cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531118567648:android:dde8c0f2132e7f4fa0a085",
+        "android_client_info": {
+          "package_name": "com.mmo.blocfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531118567648-iqjhpv1al3rmbpkuj85krdnhdijtdn72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCOihMWkFh39Ty-GrQTjZklRFTpohlrSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531118567648-iqjhpv1al3rmbpkuj85krdnhdijtdn72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531118567648-indlc38p4q9edg4pbikekntkjkhdcgtm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mmo.blocfirebaseauth.blocFirebaseAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
